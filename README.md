@@ -18,9 +18,9 @@ Admin dashboard for centralized control
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript (or React if applicable)
+Frontend: HTML, CSS, JavaScript
 
-Backend: PHP / Python (Flask/Django)
+Backend: PHP
 
 Database: MySQL
 
